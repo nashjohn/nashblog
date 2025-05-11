@@ -44,7 +44,7 @@ pagerSize     = 10
 [languages]
   [languages.en]
     title = "Sword and Trowl"
-    subtitle = "A simple theme for Hugo"
+    subtitle = ""
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
@@ -62,4 +62,3 @@ pagerSize     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
-
