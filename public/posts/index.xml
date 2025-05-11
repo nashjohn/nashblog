@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Sword and Trowl</title>
-        <link>//localhost:1313/posts/</link>
+        <link>/posts/</link>
         <description>Recent content in Posts on Sword and Trowl</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
-        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>What do I want or can see in my Future?</title>
-            <link>//localhost:1313/posts/1/</link>
+            <link>/posts/1/</link>
             <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/1/</guid>
+            <guid>/posts/1/</guid>
             <description>&lt;p&gt;I started this blog just to build. Doing a network chuck tutorial. I haven&amp;rsquo;t finished it because I been sitting on what to write. I found a new church and the pastor asked me a question. So lets answer.&lt;/p&gt;
 &lt;p&gt;What do i want or can see in my future? do i want to be married? Do I want children?  What carrier would you like? ect.&lt;/p&gt;
 &lt;p&gt;The truth of the matter is I haven&amp;rsquo;t thought much about my future. Not for awhile. I been living in the past, in past rejections and surviving.  I still need to talk about my past to get to the future.&lt;/p&gt;</description>
