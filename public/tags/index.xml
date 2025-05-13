@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sword and Trowl</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Sword and Trowl</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Future</title>
-      <link>//localhost:1313/tags/future/</link>
+      <link>/tags/future/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/future/</guid>
+      <guid>/tags/future/</guid>
       <description></description>
     </item>
     <item>
       <title>Testimony</title>
-      <link>//localhost:1313/tags/testimony/</link>
+      <link>/tags/testimony/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/testimony/</guid>
+      <guid>/tags/testimony/</guid>
       <description></description>
     </item>
   </channel>
