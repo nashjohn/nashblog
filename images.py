@@ -3,9 +3,9 @@ import re
 import shutil
 
 # Paths
-posts_dir = "/home/worm/Documents/websites/nashblog/content/posts/"
-attachments_dir = "/home/worm/Documents/Obsidian Vault"
-static_images_dir = "/home/worm/Documents/websites/nashblog/static/images/"
+posts_dir = "/home/worm/Documents/websites/nashblog/content/posts"
+attachments_dir = "/home/worm/Documents/ovault/images"
+static_images_dir = "/home/worm/Documents/websites/nashblog/static/images"
 
 # Step 1: Process each markdown file in the posts directory
 for filename in os.listdir(posts_dir):
