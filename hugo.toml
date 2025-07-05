@@ -12,19 +12,19 @@ pagerSize     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "What is truth?"
+  homeSubtitle = ""
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
+  disableReadOtherPosts = true
 
   # Enable sharing buttons, if you like
   enableSharingButtons = false
-  showPosts = false
+  showPosts = true
   tags = true
   ReadMoreText = true
   LastModDisplay = true
  
- footer = { showVersion = true, socialIcons = true, author = true, rss = true, trademark = true, copyright = true }
+ footer = { showVersion = true, socialIcons = true, author = true, rss = true, trademark = true, copyright = false }
 
 [[params.social]]
   name = "website"
