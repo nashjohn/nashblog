@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Identity on Sword and Trowl</title>
-    <link>/tags/identity/</link>
-    <description>Recent content in Identity on Sword and Trowl</description>
+    <title>Bible on Sword and Trowl</title>
+    <link>/tags/bible/</link>
+    <description>Recent content in Bible on Sword and Trowl</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/identity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/bible/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog intro and Romans 6</title>
       <link>/posts/2/</link>
